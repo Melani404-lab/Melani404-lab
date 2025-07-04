@@ -7,7 +7,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:FF00CC,100:002EFF&text=I%20am%20Melani%20Malsha&fontColor=FFFFFF&fontSize=60&fontAlign=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:FFC0CB,100:FF69B4&text=I%20am%20Melani%20Malsha&fontColor=FFFFFF&fontSize=60&fontAlign=50&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -92,5 +92,5 @@ const Melani = {
  </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:FF00CC,100:002EFF" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:FFC0CB,100:FF69B4" />
 </div>
