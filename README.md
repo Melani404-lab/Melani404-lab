@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img width="100%" src="https://github.com/Melani404-lab/Melani404-lab/blob/main/ChatGPTT Image Jul 4, 2025, 11_24_26 AM.png" />
+    <img width="100%" src="https://github.com/Melani404-lab/Melani404-lab/blob/main/cover image.png" />
   </a>
 </div>
 
