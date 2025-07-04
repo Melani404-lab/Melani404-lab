@@ -1,13 +1,13 @@
 <div align="center">
   <a href="#">
-    <img width="100%" src="https://github.com/J33WAKASUPUN/J33WAKASUPUN/blob/main/git_cover_image.jpg" />
+    <img width="100%" src="https://github.com/Melani404-lab/Melani404-lab/blob/main/git_cover_image.jpg" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:FF00CC,100:002EFF&text=I%20am%20Jeewaka%20Supun&fontColor=FFFFFF&fontSize=60&fontAlign=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&color=0:FF00CC,100:002EFF&text=I%20am%20Melani%20Malsha&fontColor=FFFFFF&fontSize=60&fontAlign=50&animation=fadeIn" />
 </div>
 
 <div align="center">
@@ -23,72 +23,33 @@
 </div>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CpatainNEMO&label=Profile%20views&style=for-the-badge&color=002eff&labelColor=000000" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/J33WAKASUPUN?label=Followers&style=for-the-badge&color=002eff&labelColor=000000" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Melani404-lab&label=Profile%20views&style=for-the-badge&color=002eff&labelColor=000000" alt="Profile Views" />
   <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-ff00cc?style=for-the-badge&labelColor=000000" alt="Focus" />
 </div>
 <br/>
 
 ```javascript
-const jeewaka = {
-  name: "Jeewaka Supun",
+const Melani = {
+  name: "Melani Malsha",
   location: "Kandy, Sri Lanka",
-  email: "supunprabodha789@gmail.com",
-  code: ["JavaScript", "TypeScript", "Python", "Java", "PHP", "Dart"],
-  askMeAbout: ["Web Development", "Mobile App Development", "UI/UX Design", "Tech", "AI/ML"],
+  email: "melanimalsha0@gmail.com",
+  code: ["JavaScript", "Python", "Java", "PHP"],
+  askMeAbout: ["Web Development","UI/UX Design", "Tech", "AI/ML"],
   technologies: {
     library: ["React.js", "Tailwind CSS", "Redux", "Framer Motion", "Bootstrap", "jQuery"],
     frameworks: [
       "Next.js",
-      "Flutter",
-      "Vue.js",
-      "NestJS",
-      "FastAPI",
+      "Vue.js"
     ],
-    backEnd: ["Node.js", "Laravel", "Express.js", "Django", "Spring Boot"],
-    devOps: ["Docker"],
-    databases: ["MySQL", "MongoDB", "PostgreSQL", "Firebase", "Supabase"]
+    backEnd: ["Node.js", "Express.js", "Django", "Spring Boot"],
+    databases: ["MySQL", "MongoDB", "PostgreSQL", "Firebase"]
   },
   architecture: [
     "Serverless Architecture",
     "Progressive Web Applications (PWA)",
     "Single Page Applications (SPA)"
   ],
-  interests: [
-    "Sci-Fi Movies & TV Shows",
-    "Star Wars, Dune, Interstellar, Blade Runner",
-    "Exploring futuristic tech and storytelling"
-  ],
-  funFact: "In a parallel universe, my code runs perfectly the first time."
-};
-
-console.log(`
-   ============================================
-   🚀 Welcome to my digital universe
-   🛡️ I am a developer, forged in code and coffee.
-   💻 My logic is clean. My UI is sharp. My bugs are few.
-   ⚙️ I troubleshoot in darkness and deploy in light.
-   ✨ I build. I break. I refactor.
-   🧠 This is the way.
-   ============================================
-`);
 ```
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
-</div>
-
-<h3 align="center">Current Focus & Goals :</h3>
-<div align="center">
-<br/>
-  
-| 🔵 **Working On** | 🟣 **Learning** | 🔵 **Next Goals** |
-|:-------:|:-------:|:-------:|
-| Full Stack Web Apps | Advanced AI/ML | Cloud Architecture |
-| Mobile Development | DevOps & Docker | Open Source Contrib |
-| UI/UX Innovation | System Design | Tech Leadership |
-
-</div>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 </div>
@@ -99,32 +60,22 @@ console.log(`
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=J33WAKASUPUN&theme=tokyonight&show_icons=true&count_private=true"/>
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Melani404-lab&theme=tokyonight&show_icons=true&count_private=true"/>
   
 
 <br/>
 <br/>
 
-  [![jeewaka supun's current streak](https://streak-stats.demolab.com/?user=J33WAKASUPUN&count_private=true&theme=tokyonight)](#)
+  [![jeewaka supun's current streak](https://streak-stats.demolab.com/?user=Melani404-lab&count_private=true&theme=tokyonight)](#)
   
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=J33WAKASUPUN&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Melani404-lab&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>  
   </td>
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
-</div>
-
-<h3 align="center">Let's Connect :</h3>
-<div align="center">
-<a href="https://www.linkedin.com/in/jeewaka-supun" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
-</div>
-<br/>
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 </div>
